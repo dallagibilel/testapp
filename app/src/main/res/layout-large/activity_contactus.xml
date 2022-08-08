@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ContactusActivity">
+
+    <LinearLayout
+        android:id="@+id/test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/titre"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/logo_delice_danone">
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/montserrat_semibold"
+                android:text="@string/contactus_delice_holding"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_marginTop="4dp"
+                android:background="#64748B">
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/contactus_title_groupe"
+                android:fontFamily="@font/nexa_bold"
+                android:textStyle="bold"
+                android:textColor="@color/back_ground"
+                android:textSize="17dp" >
+            </TextView>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="@string/contactus_groupe"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/contactus_title_text"
+                android:fontFamily="@font/nexa_bold"
+                android:textStyle="bold"
+                android:textColor="@color/back_ground"
+                android:textSize="17dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="@string/contact_information"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information_email"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information_emailtext"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationteltele"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationtelfax"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_marginTop="4dp"
+                android:background="#64748B">
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information_2"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information2"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationteltele2"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationtelfax2"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_marginTop="4dp"
+                android:background="#64748B">
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information3"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information33"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationteltele3"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationtelfax3"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_marginTop="4dp"
+                android:background="#64748B">
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information4"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information44"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationteltele4"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationtelfax4"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_marginTop="4dp"
+                android:background="#64748B">
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information5"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_information55"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationteltele5"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/contact_informationtelfax5"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textColor="@color/textcolors"
+                android:textSize="15dp"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:layout_marginTop="4dp"
+                android:background="#64748B">
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/contact_followus"
+                android:fontFamily="@font/nexa_bold"
+                android:textStyle="bold"
+                android:textColor="@color/back_ground"
+                android:textSize="17dp">
+            </TextView>
+
+            <RelativeLayout
+                android:id="@+id/boximage"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_below="@id/test"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="30dp">
+
+                    <ImageView
+                        android:id="@+id/facebookid"
+                        android:layout_width="55dp"
+                        android:layout_height="55dp"
+                        android:src="@drawable/facebook">
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/youtubeid"
+                        android:layout_width="55dp"
+                        android:layout_height="55dp"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/youtube">
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/linkdinid"
+                        android:layout_width="55dp"
+                        android:layout_height="55dp"
+                        android:layout_alignParentEnd="true"
+                        android:src="@drawable/linkedin">
+                    </ImageView>
+
+                    <View
+                        android:layout_width="wrap_content"
+                        android:layout_height="2dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_below="@id/youtubeid"
+                        android:layout_marginTop="4dp"
+                        android:background="#64748B">
+                    </View>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="100dp"
+                        android:text="© 2022 Délice Danone Tous droits réservés"
+                        android:fontFamily="@font/nexa_bold"
+                        android:textStyle="bold"
+                        android:textColor="@color/textcolors"
+                        android:textSize="13dp">
+                    </TextView>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+</ScrollView>

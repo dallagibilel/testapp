@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "34904812754",
+    "firebase_url": "https://my-application-a377c-default-rtdb.firebaseio.com",
+    "project_id": "my-application-a377c",
+    "storage_bucket": "my-application-a377c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34904812754:android:7daf3cffc72ca9298c110b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34904812754-dn3s2d4omc5g02rfg2gh2cjijl66p8i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBcOYkq86MoL6gTuOKhcptCfoZ2GvbAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34904812754-dn3s2d4omc5g02rfg2gh2cjijl66p8i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34904812754:android:e6bc47a5a58c8ec98c110b",
+        "android_client_info": {
+          "package_name": "com.kazimasum.qrdemofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34904812754-dn3s2d4omc5g02rfg2gh2cjijl66p8i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBcOYkq86MoL6gTuOKhcptCfoZ2GvbAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34904812754-dn3s2d4omc5g02rfg2gh2cjijl66p8i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34904812754:android:ec1e3646721e23138c110b",
+        "android_client_info": {
+          "package_name": "tech.tanztalks.android.spinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34904812754-dn3s2d4omc5g02rfg2gh2cjijl66p8i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBcOYkq86MoL6gTuOKhcptCfoZ2GvbAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34904812754-dn3s2d4omc5g02rfg2gh2cjijl66p8i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/drawable-v24/bg_btn.xml" value="0.2575" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1535" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_customers.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_dashbord.xml" value="0.359375" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_draw_base.xml" value="0.17477203647416414" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_forgot_password.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main.xml" value="0.15602836879432624" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_order.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_splash.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_welcome.xml" value="0.16" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/content_layout.xml" value="0.14" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/main_drawer_headr.xml" value="0.359375" />
+        <entry key="..\:/Users/bill/AndroidStudioProjects/MyApplication8/app/src/main/res/menu/main_drawer_menu.xml" value="0.2935185185185185" />
+        <entry key="..\:/Users/bill/Desktop/New folder (2)/Delice qr code/MyApplication8/app/src/main/res/layout/activity_sign_in_admin.xml" value="0.15220179563916203" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_aboutus.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_contactus.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_dashbord.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_sign_in.xml" value="0.2860196665241556" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_sign_in_admin.xml" value="0.2860196665241556" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_test_lait.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.158" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable-v24/bg_btn.xml" value="0.223" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable-v24/bg_header.xml" value="0.223" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable-v24/bg_input.xml" value="0.2" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_apropos__24.xml" value="0.23" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_baseline_arrow_drop_down.xml" value="0.158" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.223" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_baseline_directions_car_24.xml" value="0.223" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_baseline_style_24.xml" value="0.223" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.23" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_contactez_nous_24.xml" value="0.23" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_deconnexion_24.xml" value="0.23" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_launcher_background.xml" value="0.223" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.158" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/drawable/proggress.xml" value="0.2165" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_aboutus.xml" value="0.25" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_contactus.xml" value="0.33" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_customers.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_dashbord.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_draw_base.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_forgot_password.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_log_out.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_order.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_qrscanner.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_sign_in_admin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_sign_up_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_splash.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_test_lait.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/activity_welcome.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/content_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/dropdown_item.xml" value="0.26745240253853125" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/layout/main_drawer_headr.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/menu/main_drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.204" />
+        <entry key="..\:/Users/raksha/AndroidStudioProjects/New folder/MyApplication8/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.204" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-land/activity_contactus.xml" value="0.3106796116504854" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_aboutus.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_contactus.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_dashbord.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_draw_base.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_forgot_password.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_sign_in.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_sign_in_admin.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_sign_up_user.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_splash.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_test_lait.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-large/activity_welcome.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_aboutus.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_contactus.xml" value="0.22" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_dashbord.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_draw_base.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_forgot_password.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_sign_in.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_sign_in_admin.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_sign_up_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_splash.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_test_lait.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-normal/activity_welcome.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_aboutus.xml" value="0.22" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_contactus.xml" value="0.22" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_dashbord.xml" value="0.25" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_draw_base.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_forgot_password.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_sign_in.xml" value="1.050660792951542" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_sign_in_admin.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_sign_up_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_splash.xml" value="1.050660792951542" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_test_lait.xml" value="0.16" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-small/activity_welcome.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-sw600dp/activity_welcome.xml" value="0.264453125" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_aboutus.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_contactus.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_dashbord.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_draw_base.xml" value="0.275" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_forgot_password.xml" value="0.264453125" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_sign_in.xml" value="0.18" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_sign_in_admin.xml" value="0.17" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_sign_up_user.xml" value="0.17" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_splash.xml" value="0.14" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_test_lait.xml" value="0.16" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout-xlarge/activity_welcome.xml" value="0.16" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_aboutus.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_contactus.xml" value="0.22" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_dashbord.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_draw_base.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_forgot_password.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_qrscanner.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_sign_in.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_sign_in_admin.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_sign_up_user.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_splash.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_test_lait.xml" value="0.2" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/activity_welcome.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/content_layout.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/list_item.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/layout/main_drawer_headr.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/raksha/Desktop/Delice qr code/MyApplication8/app/src/main/res/menu/main_drawer_menu.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

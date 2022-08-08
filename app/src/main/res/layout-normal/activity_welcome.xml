@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WelcomeActivity"
+    android:background="@color/back_ground"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="460dp"
+        android:background="@drawable/bg_header"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="230dp"
+            android:layout_height="235dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/logo_delice_danone">
+
+        </ImageView>
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:fontFamily="@font/montserrat_semibold"
+        android:textColor="@color/text_colors_slogan"
+        android:text="@string/delice_danone_slogan">
+
+    </TextView>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:fontFamily="@font/montserrat_semibold"
+        android:textColor="@color/text_colors_slogan"
+        android:text="@string/delice_danone_slogan2">
+    </TextView>
+
+    <Button
+        android:id="@+id/btngetstarted"
+        android:layout_width="220dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bg_btn"
+        app:backgroundTint="@color/btn_login_color2"
+        android:text="@string/welcome_text"
+        android:textAllCaps="false"
+        android:fontFamily="@font/nexa_bold"
+        android:textStyle="bold"
+        android:textSize="20dp">
+    </Button>
+
+</LinearLayout>

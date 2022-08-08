@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Delice Danone(D-E)</string>
+    <string name="delice_danone_slogan">Delice Danone</string>
+    <string name="delice_danone_slogan2">دليس يعطيك الصحّة</string>
+    <string name="btn_getstarted">Get started</string>
+
+    //welcome activity
+    <string name="welcome_text">Commencer</string>
+
+    //sign in activity
+    <string name="signin_title_text">Connectez-vous à votre compte</string>
+    <string name="signin_text_hint_username">Adresse E-mail</string>
+    <string name="signin_text_hint_password">Mot de passe</string>
+    <string name="signin_forgot_text">Mot de passe oublié ?</string>
+    <string name="signin_btn_Login">Se connecter</string>
+    <string name="signin_btn_Login2">Administrateur</string>
+
+    //forgot password activity
+    <string name="forgot_title_text">Récupérer votre compte</string>
+    <string name="forgot_message_text">Pour réinitialiser votre mot de passe Entrez votre adresse e-mail et nous vous enverrons des instructions pour réinitialiser votre mot de passe s\'il existe un compte pour cet e-mail.</string>
+
+    //signin admin activity
+    <string name="signin_admin_title_text">Connexion administrateur</string>
+    <string name="signin_admin_text_hint_username">Adresse E-mail</string>
+    <string name="signin_admin_text_hint_password">Mot de passe</string>
+    <string name="signin_admin_forgot_text">Mot de passe oublié ?</string>
+    <string name="signin_admin_btn_Login">Se connecter</string>
+
+    //signup user activity
+    <string name="signup_user_title_text">Enregistrer utilisateur</string>
+    <string name="signup_user_email">Adresse E-mail</string>
+    <string name="signup_user_nom">Nom</string>
+    <string name="signup_user_prenom">Prénom</string>
+    <string name="signup_user_numero">Numéro de téléphone</string>
+    <string name="signup_user_password">Mot de passe</string>
+    <string name="signup_user_password_check">Confirmer le mot de passe</string>
+    <string name="signup_btn_Login">Confirmer</string>
+
+    //Dashbord user activity
+    <string name="dashbord_title_text">Mon code QR</string>
+    <string name="btn_scanne">Scannez mon code QR</string>
+
+    //Drawar base activity
+    <string name="neu_drawer_open">Drawar Open</string>
+    <string name="neu_drawer_close">Drawar close</string>
+
+    //Test lait activity
+    <string name="test_title_text">Qualité</string>
+    <string name="test_spinner_alcool">Alcool</string>
+    <string name="test_spinner_atb">A-T-B</string>
+    <string name="test_densite_text">Densité</string>
+    <string name="test_volume_text">Volume</string>
+    <string name="test_text_hint_jauge">Jauge</string>
+    <string name="test_text_hint_volume">Volume</string>
+    <string name="test_spinner_statut">Statut</string>
+    <string name="test_spinner_Compartiment">Compartiment</string>
+
+    //activity Contact us
+    <string name="contactus_delice_holding">Délice est une marque citoyenne très proche de ses consommateurs et soucieuse de leur santé.\nLe Groupe avait déjà réussi à gagner la confiance des acteurs du marché !</string>
+    <string name="contactus_title_groupe">Sociétés du groupe</string>
+    <string name="contactus_groupe">Le Groupe «Délice Holding» est composé de huit sociétés : ‘‘CLC’’, ‘‘CLN’’, ‘’CLSB’’, ‘’SBC’’, ‘’CF’’, ‘’Delta Plastic’’, ‘’STIAL’’ et ‘’SOCOGES’’ exerçant dans le secteur de l’industrie agroalimentaire.</string>
+    <string name="contactus_title_text">Nous contacter</string>
+    <string name="contact_information">Immeuble_JOUMANA, La Goulette (10,05 km) 2015 Tunis – Tunisie</string>
+    <string name="contact_information_email">Adresse E-mail :</string>
+    <string name="contact_information_emailtext">contact@groupedelice.com.tn</string>
+    <string name="contact_informationteltele">Tél : (+216) 70_024_500</string>
+    <string name="contact_informationtelfax">Fax : (+216) 71_964_117</string>
+    //--Centrale Laitiére du Cap-bon
+    <string name="contact_information_2">Centrale Laitiére du Cap-bon</string>
+    <string name="contact_information2">Km 1 route de Menzel Bouzelfa Soliman 8020</string>
+    <string name="contact_informationteltele2">Tél : (+216) 72_290_601</string>
+    <string name="contact_informationtelfax2">Fax : (+216) 72_290_062</string>
+    //--Societe des Boissonsdu Cap-bon
+    <string name="contact_information3">Societe des Boissonsdu Cap-bon</string>
+    <string name="contact_information33">Km 1 route de Menzel Bouzelfa Soliman 8020</string>
+    <string name="contact_informationteltele3">Tél : (+216) 77_229_0601</string>
+    <string name="contact_informationtelfax3">Fax : (+216) 72_290_062</string>
+    //--STIAL (delice danone)
+    <string name="contact_information4">Societe des Boissonsdu Cap-bon</string>
+    <string name="contact_information44">Km 1 route de Menzel Bouzelfa Soliman 8020</string>
+    <string name="contact_informationteltele4">Tél : (+216) 70_024_100</string>
+    <string name="contact_informationtelfax4">Fax : (+216) 71_962_830</string>
+    //--la Compagnie fromagére
+    <string name="contact_information5">La Compagnie fromagére</string>
+    <string name="contact_information55">Zi Borj cedria Bp:89-Hammem lif 2050 tunis</string>
+    <string name="contact_informationteltele5">Tél : (+216) 97_412_027</string>
+    <string name="contact_informationtelfax5">Fax : (+216) 71_964_117</string>
+    <string name="contact_followus">Suivez-nous</string>
+
+    //about us activity
+    <string name="aboutus_title_cree">Créé par :</string>
+    <string name="aboutus_title_creeinfo">Dallagi bilel</string>
+    <string name="aboutus_information_email">Adresse E-mail :</string>
+    <string name="aboutus_information_emailinfo">Dallagibilel40@gmail.com</string>
+    <string name="aboutus_information_projett">Projet :</string>
+    <string name="aboutus_information_projettitre">Digitalisation des enlèvements</string>
+    <string name="aboutus_title_text">Application :</string>
+    <string name="aboutus_nome_app">Delice Danone</string>
+    <string name="aboutus_title_version">Version :</string>
+    <string name="aboutus_version">MinSdk 29\nTargetSdk 32\nVersionCode 1\nVersionName 1.0</string>
+    <string name="aboutus_title_remer">Remerciement</string>
+    <string name="aboutus_remer">Au terme de ce travail je tiens tout d‘abord à remercier :\n\nMon DIEU de m‘avoir donné le courage , la force et la volonté pour achever ce modeste travail.\n\nMon encadrant M.Ibrahim Oueslati , Formateur chez Centre Sectorielle de Formation Professionnelle Cité el Khadra pour son encadrement , ses remarques constructives tout le long de mon travail.\n\nMon encadreur Rania koubaa , pour ses qualités professionnelles et la confiance qui m‘a accordé tout au long de mon stage.</string>
+
+</resources>

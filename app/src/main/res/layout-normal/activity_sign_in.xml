@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignInActivity"
+    android:background="@color/back_ground"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:background="@drawable/bg_header">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/logo_delice_danone">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/titre"
+            android:layout_below="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/montserrat_semibold"
+            android:textStyle="bold"
+            android:textColor="@color/text_color_title"
+            android:textSize="19dp"
+            android:text="@string/signin_title_text">
+        </TextView>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/addemail"
+            android:layout_below="@+id/titre"
+            android:layout_marginTop="30dp"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            app:boxCornerRadiusBottomEnd="15dp"
+            app:boxCornerRadiusBottomStart="15dp"
+            app:boxCornerRadiusTopEnd="15dp"
+            app:boxCornerRadiusTopStart="15dp"
+            app:boxStrokeColor="@color/box_stroke_color"
+            app:boxStrokeWidth="3dp"
+            app:boxStrokeWidthFocused="3dp"
+            app:hintTextColor="@color/back_ground"
+            android:textColorHint="@color/text_color_hint"
+            android:hint="@string/signin_text_hint_username"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:textStyle="bold"
+             />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/addpass"
+            android:layout_below="@+id/addemail"
+            android:layout_marginTop="20dp"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            app:passwordToggleEnabled="true"
+            android:layout_marginLeft="30dp"
+            app:boxCornerRadiusBottomEnd="15dp"
+            app:boxCornerRadiusBottomStart="15dp"
+            app:boxCornerRadiusTopEnd="15dp"
+            app:boxCornerRadiusTopStart="15dp"
+            app:boxStrokeColor="@color/box_stroke_color"
+            app:boxStrokeWidth="3dp"
+            app:boxStrokeWidthFocused="3dp"
+            app:hintTextColor="@color/back_ground"
+            android:textColorHint="@color/text_color_hint"
+            android:hint="@string/signin_text_hint_password"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:textStyle="bold"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_below="@+id/addpass"
+            android:id="@+id/forgot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="30dp"
+            android:text="@string/signin_forgot_text"
+            android:fontFamily="@font/montserrat_semibold"
+            android:textStyle="bold"
+            android:textColor="#EB001B"
+            android:textSize="13dp"
+            android:onClick="txtSignInForgotPasswordClicked"
+            >
+        </TextView>
+
+        <Button
+            android:id="@+id/btnforgo"
+            android:layout_width="220dp"
+            android:layout_height="55dp"
+            android:layout_below="@+id/forgot"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/bg_btn"
+            android:fontFamily="@font/nexa_bold"
+            android:onClick="buttonSignInScrSignClicked"
+            android:text="@string/signin_btn_Login"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:backgroundTint="@color/btn_login_color1">
+
+        </Button>
+
+        <Button
+            android:layout_below="@+id/btnforgo"
+            android:layout_width="220dp"
+            android:layout_height="55dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bg_btn"
+            app:backgroundTint="#64748B"
+            android:text="@string/signin_btn_Login2"
+            android:textAllCaps="false"
+            android:fontFamily="@font/nexa_bold"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:onClick="buttonSignInAdminClicked">
+        </Button>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+
+            <ProgressBar
+                android:id="@+id/progressBarSignIn"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/proggress"
+                android:elevation="5dp"
+                android:padding="2dp"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:fontFamily="@font/montserrat_semibold"
+        android:textColor="@color/text_colors_slogan"
+        android:text="@string/delice_danone_slogan">
+
+    </TextView>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:fontFamily="@font/montserrat_semibold"
+        android:textColor="@color/text_colors_slogan"
+        android:text="@string/delice_danone_slogan2">
+    </TextView>
+
+
+</LinearLayout>

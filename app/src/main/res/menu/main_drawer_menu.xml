@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_Laite"
+            android:icon="@drawable/ic_baseline_arrow_forward_24"
+            android:title="Laite">
+        </item>
+
+        <item android:id="@+id/nav_Contactez"
+            android:icon="@drawable/ic_contactez_nous_24"
+            android:title="Contactez nous">
+        </item>
+
+        <item android:id="@+id/nav_Apropos"
+            android:icon="@drawable/ic_apropos__24"
+            android:title="À propos">
+        </item>
+
+        <item android:id="@+id/nav_Deconnexion"
+            android:icon="@drawable/ic_deconnexion_24"
+            android:title="Déconnexion">
+
+        </item>
+
+    </group>
+
+
+</menu>

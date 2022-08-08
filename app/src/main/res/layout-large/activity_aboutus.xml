@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutusActivity"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:id="@+id/test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo_delice_danone">
+        </ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/nexa_bold"
+            android:textStyle="bold"
+            android:text="@string/aboutus_title_cree"
+            android:textColor="@color/back_ground"
+            android:textSize="17dp">
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/montserrat_semibold"
+            android:text="@string/aboutus_title_creeinfo"
+            android:textColor="@color/textcolors"
+            android:textSize="15dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/nexa_bold"
+            android:textStyle="bold"
+            android:text="@string/aboutus_information_email"
+            android:textColor="@color/back_ground"
+            android:textSize="17dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/montserrat_semibold"
+            android:text="@string/aboutus_information_emailinfo"
+            android:textColor="@color/textcolors"
+            android:textSize="15dp">
+
+        </TextView>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="2dp"
+            android:layout_marginTop="4dp"
+            android:background="#64748B">
+        </View>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/nexa_bold"
+            android:textStyle="bold"
+            android:text="@string/aboutus_information_projett"
+            android:textColor="@color/back_ground"
+            android:textSize="17dp">
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/montserrat_semibold"
+            android:text="@string/aboutus_information_projettitre"
+            android:textColor="@color/textcolors"
+            android:textSize="15dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/aboutus_title_text"
+            android:fontFamily="@font/nexa_bold"
+            android:textStyle="bold"
+            android:textColor="@color/back_ground"
+            android:textSize="17dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/aboutus_nome_app"
+            android:fontFamily="@font/montserrat_semibold"
+            android:textColor="@color/textcolors"
+            android:textSize="15dp">
+
+        </TextView>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="2dp"
+            android:layout_marginTop="4dp"
+            android:background="#64748B">
+        </View>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/aboutus_title_version"
+            android:fontFamily="@font/nexa_bold"
+            android:textStyle="bold"
+            android:textColor="@color/back_ground"
+            android:textSize="17dp">
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/aboutus_version"
+            android:fontFamily="@font/montserrat_semibold"
+            android:textColor="@color/textcolors"
+            android:textSize="15dp">
+        </TextView>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="2dp"
+            android:layout_marginTop="4dp"
+            android:background="#64748B">
+        </View>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="@string/aboutus_title_remer"
+            android:fontFamily="@font/nexa_bold"
+            android:textStyle="bold"
+            android:textColor="@color/back_ground"
+            android:textSize="17dp">
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/montserrat_semibold"
+            android:text="@string/aboutus_remer"
+            android:textColor="@color/textcolors"
+            android:textSize="15dp">
+
+        </TextView>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="2dp"
+            android:layout_marginTop="4dp"
+            android:background="#64748B">
+        </View>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/nexa_bold"
+                android:text="© 2022 Délice Danone Tous droits réservés"
+                android:textColor="@color/textcolors"
+                android:textSize="13dp"
+                android:textStyle="bold">
+            </TextView>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>
